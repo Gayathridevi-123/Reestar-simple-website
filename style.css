@@ -1,0 +1,106 @@
+nav {
+    background-color: black;
+    color: beige;
+    padding: 50px;
+  text-align: center;
+    font-weight: 500;
+    padding-bottom: 20px;
+    margin: 30px;
+    margin-bottom: 10px;
+}
+
+
+
+button {
+    background-color: black;
+    color: beige;
+    padding: 10px;
+}
+
+.section-one {
+    height: 500px;
+    width: 200px;
+    display: inline-block;
+    background-color: none;
+    color: black;
+    border: none;
+    border-style: ridge;
+    border-width: 3px;
+    border-color: black;
+    text-align: center;
+    vertical-align: top;
+   margin: 10px;
+    margin-left: 300px;
+    
+
+}
+
+.section-two {
+    height: 500px;
+    width: 200px;
+    display: inline-block;
+    background-color: none;
+    color: black;
+    border: none;
+    border-style: ridge;
+    border-width: 3px;
+    border-color: black;
+    text-align: center;
+    vertical-align: top;
+    margin: 10px;
+    line-height: 1.2;
+}
+
+.section-three {
+    height: 500px;
+    width: 200px;
+    display: inline-block;
+    background-color: none;
+    color: black;
+    border: none;
+    border-style: ridge;
+    border-width: 3px;
+    border-color: black;
+    text-align: center;
+    vertical-align: top;
+    margin: 10px;
+    line-height: 1.2;
+}
+
+.section-four {
+    height: 500px;
+    width: 200px;
+    display: inline-block;
+    background-color: none;
+    color: black;
+    border: none;
+    border-style: ridge;
+    border-width: 3px;
+    border-color: black;
+    text-align: center;
+    vertical-align: top;
+    margin: 10px;
+    line-height: 1.2;
+}
+
+.section-five {
+    background-color: black;
+    color: beige;
+    text-align: center;
+    padding: 10px;
+    
+    
+
+}
+.section-five__form{
+   padding-left: 600px;
+}
+
+.section-five__button {
+    background-color: yellow;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 500px;
+    display: inline-block;
+}
